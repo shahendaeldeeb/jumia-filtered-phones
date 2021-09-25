@@ -1,1 +1,1 @@
-# jumia-filtered-phones
+# jumia-filtered-phones-test
